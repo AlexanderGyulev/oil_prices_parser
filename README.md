@@ -1,6 +1,6 @@
-# 🛢️ Oil Price Lookup Application (Python + Tkinter)
+# Oil Price Lookup Application (Python + Tkinter)
 
-## 🧾 Description
+## Description
 
 This is a simple desktop application built with Python and Tkinter that allows users to look up historical crude oil prices by date.
 
@@ -8,7 +8,7 @@ The application loads oil price data from an XML file and provides a minimal gra
 
 ---
 
-## ✨ Features
+## Features
 
 - Load oil price data from an XML file
 - Simple and intuitive graphical user interface
@@ -17,7 +17,7 @@ The application loads oil price data from an XML file and provides a minimal gra
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Tkinter (GUI framework)
@@ -25,16 +25,16 @@ The application loads oil price data from an XML file and provides a minimal gra
 
 ---
 
-## ▶️ Running the Application Locally
+## Running the Application Locally
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/your-username/oil-price-app.git
 cd oil-price-app
 ```
 
-### 2️⃣ Run the application
+### Run the application
 
 ```bash
 python main.py
