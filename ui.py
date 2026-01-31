@@ -9,7 +9,7 @@ class OilPriceApp:
         self.build_ui()
 
     def build_ui(self):
-        self.input_label = tk.Label(self.root, text="Please enter the date in the format YYYY-MM-DD")
+        self.input_label = tk.Label(self.root, text="Please enter the date in the format YYYY-MM-DD:")
         self.input_label.pack(pady = 5)
         self.text_entry = tk.Entry(self.root)
         self.text_entry.pack(pady = 5 )
@@ -25,5 +25,3 @@ class OilPriceApp:
             self.result_label.configure(text="The price is: ${}".format(price))
         else:
             self.result_label.configure(text="The entered date doesn't exist")
-
-
