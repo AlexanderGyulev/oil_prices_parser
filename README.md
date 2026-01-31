@@ -1,4 +1,4 @@
-# Oil Price Lookup Application (Python + Tkinter)
+# Oil Price Lookup Application
 
 ## Description
 
